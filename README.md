@@ -18,15 +18,10 @@ I am a passionate Backend Developer and UI/UX Designer with an interest in build
 - Python
 - C
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript (Basics)
 
 ### UI/UX
 - Figma
-- Wireframing
-- Prototyping
+  
 
 ### Tools
 - Git
@@ -46,12 +41,6 @@ I am a passionate Backend Developer and UI/UX Designer with an interest in build
 - Java fundamentals
 - OOP concepts
 - Data Structures
-
-### 🎨 UI/UX Designs
-- Mobile App Design
-- Website Design
-- Dashboard Design
-
 ---
 
 ## 🎯 Career Objective
