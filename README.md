@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there 👋, I'm Sharon Emile
 
-<!--
-**sharonemile/SharonEmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate Backend Developer and UI/UX Designer with an interest in building efficient applications and creating user-friendly interfaces. I enjoy learning new technologies and improving my programming and problem-solving skills.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Java, Data Structures & Algorithms, and Backend Development
+- 🎨 UI/UX Designer using Figma
+- 💻 Passionate about Software Development
+- 🤝 Open to internships and collaboration
+- 📫 Reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Java
+- Python
+- C
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript (Basics)
+
+### UI/UX
+- Figma
+- Wireframing
+- Prototyping
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📂 Featured Projects
+
+### 📅 Online Appointment System
+- UI/UX design created using Figma
+- Clean and responsive interface
+
+### ☕ Java Programs
+- Java fundamentals
+- OOP concepts
+- Data Structures
+
+### 🎨 UI/UX Designs
+- Mobile App Design
+- Website Design
+- Dashboard Design
+
+---
+
+## 🎯 Career Objective
+
+To become a skilled Backend Developer by continuously learning modern technologies and developing real-world applications that solve meaningful problems.
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ *"Design. Develop. Deliver."*
