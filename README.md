@@ -1,59 +1,71 @@
-# Hi there 👋, I'm Sharon Emile
+# Hi there, I'm Sharon Emile 👋
 
-## 🚀 About Me
-I am a passionate Backend Developer and UI/UX Designer with an interest in building efficient applications and creating user-friendly interfaces. I enjoy learning new technologies and improving my programming and problem-solving skills.
+## 🚀 Backend Developer | UI/UX Designer | Figma Enthusiast
 
-- 🌱 Currently learning Java, Data Structures & Algorithms, and Backend Development
+I'm a passionate Computer Science student with a strong interest in backend development, UI/UX design, and creating impactful digital solutions. I enjoy learning new technologies, solving coding challenges, and building user-friendly applications.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Aspiring Backend Developer
 - 🎨 UI/UX Designer using Figma
-- 💻 Passionate about Software Development
-- 🤝 Open to internships and collaboration
-- 📫 Reach me: your-email@example.com
+- 🌱 Currently learning Java, Spring Boot, SQL, and Data Structures & Algorithms
+- 🤝 Open to internships and collaboration opportunities
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- C
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### UI/UX
-- Figma
-  
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-
----
-
-## 📂 Featured Projects
-
-### 📅 Online Appointment System
-- UI/UX design created using Figma
-- Clean and responsive interface
-
-### ☕ Java Programs
-- Java fundamentals
-- OOP concepts
-- Data Structures
----
-
-## 🎯 Career Objective
-
-To become a skilled Backend Developer by continuously learning modern technologies and developing real-world applications that solve meaningful problems.
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+## 📚 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- GitHub: https://github.com/YOUR_USERNAME
+- Spring Boot
+- REST APIs
+- Data Structures & Algorithms
+- Database Management Systems
 
 ---
 
-⭐ *"Design. Develop. Deliver."*
+## 📊 GitHub Stats
+
+![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+---
+
+## 💡 Quote
+
+> **"Design. Develop. Deliver."** 🚀
